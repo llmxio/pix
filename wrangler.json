@@ -1,5 +1,5 @@
 {
-  "compatibility_date": "2025-04-01",
+  "compatibility_date": "2025-04-10",
   "main": "src/index.ts",
   "name": "pix",
   "upload_source_maps": true,
